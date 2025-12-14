@@ -1,5 +1,5 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/ali-mokhtari/UTD-19-EDA/blob/main/notebooks/UTD_EDA_clean.ipynb)
+
 
 # UTD-19 Urban Cities- Exploratory Data Analysis (EDA)
 
