@@ -1,3 +1,6 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/ali-mokhtari/UTD-19-EDA/blob/main/notebooks/UTD_EDA_clean.ipynb)
+
 # UTD-19 Urban Cities- Exploratory Data Analysis (EDA)
 
 ## introduction 
@@ -16,6 +19,11 @@ The dataset used in this project is publicly available.
 
 
 [UTD-19 Dataset](https://doi.org/10.3929/ethz-b-000437802)
+
+## Notebooks
+
+The notebook in this repository has been cleaned using `nbconvert` to remove
+Colab-specific widget metadata and ensure compatibility with GitHub rendering.
 
 ## Citation
 Loder, A., Ambühl, L., Menendez, M. et al. Understanding traffic capacity of urban networks. Sci Rep 9, 16283 (2019). https://doi.org/10.1038/s41598-019-51539-5
