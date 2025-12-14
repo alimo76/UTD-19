@@ -25,6 +25,12 @@ The dataset used in this project is publicly available.
 The notebook in this repository has been cleaned using `nbconvert` to remove
 Colab-specific widget metadata and ensure compatibility with GitHub rendering.
 
+# My Project
+
+Here is a spatial plot showing the data:
+
+![Spatial Plot](spatial_img_paris.png)
+![Spatial Plot](spatial_img_zurich.png)
 ## Citation
 Loder, A., Ambühl, L., Menendez, M. et al. Understanding traffic capacity of urban networks. Sci Rep 9, 16283 (2019). https://doi.org/10.1038/s41598-019-51539-5
 
